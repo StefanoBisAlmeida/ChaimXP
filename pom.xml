@@ -6,8 +6,6 @@
 
     <groupId>com.biblioteca</groupId>
     <artifactId>biblioteca</artifactId>
-    <groupId>com.calculadora</groupId>
-    <artifactId>calculadora</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
